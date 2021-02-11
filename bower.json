@@ -1,14 +1,22 @@
 {
-  "name": "bower_components",
-  "version": "1.0.1",
-  "authors": [
-    "Trung Quan <quanlightning17@gmail.com> <https://trungquandev.com>"
-  ],
-  "description": "Tổng hợp những thư viện bên thứ 3 sử dụng cho dự án Awesome Chat. https://trungquandev.com",
-  "main": "/",
-  "keywords": [
-    "awesome-chat-third-party-libraries-trungquandev"
-  ],
-  "license": "MIT",
-  "homepage": "https://github.com/trungquan17/awesome-chat-third-party-libraries.git"
-}
+    "name": "metting-app",
+    "homepage": "https://www.linkedin.com/in/khainguyenquang/",
+    "authors": [
+      "khaismile97 <khaismile1997@gmail.com>"
+    ],
+    "description": "Manage frontend libraries.",
+    "main": "src/server.js",
+    "license": "",
+    "private": true,
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+    ],
+    "dependencies": {
+      "bower_components": "https://github.com/khaismile1997/meeting-app-third-party-libraries.git"
+    }
+  }
+  
